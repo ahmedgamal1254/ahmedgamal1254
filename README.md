@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Data Science</h1>
-<h3 align="center">I’m currently learning Machine Learning</h3>
+<h1 align="center">Hi 👋, I'm ahmed gamal</h1>
+<h3 align="center">I’m currently learning Data Science</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [heart diesease](https://www.kaggle.com/code/ahmedgamal12/case-study-classifier)
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/ahmedgamal12](https://www.kaggle.com/ahmedgamal12)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python**,**Machine learning**,**Deep Learning**
 
 - 📫 How to reach me **engahmedgamal086@gmail.com**
 
-- 📄 Know about my experiences [i have 1 years experience in data analysis](i have 1 years experience in data analysis)
+- 📄 Know about my experiences [i have 1 years experience in data analysis](i have 1 years experience in Ml/Dl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
