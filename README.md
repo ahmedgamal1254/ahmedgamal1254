@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/ahmedgamal12](https://www.kaggle.com/ahmedgamal12)
 
-- 💬 Ask me about **python**,**Machine learning**,**Deep Learning**
+- 💬 Ask me about **python**, **Machine learning**, and **Deep Learning**
 
 - 📫 How to reach me **engahmedgamal086@gmail.com**
 
-- 📄 Know about my experiences [i have 1 years experience in data analysis](i have 1 years experience in Ml/Dl)
+- 📄 Know about my experiences: 1 year in Data Analysis, and 1 year experience in Deep Learning)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
