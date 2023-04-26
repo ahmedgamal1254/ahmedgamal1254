@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmed gamal</h1>
-<h3 align="center">I’m currently learning Data Science</h3>
+<h3 align="center">I’m currently working as a backend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
