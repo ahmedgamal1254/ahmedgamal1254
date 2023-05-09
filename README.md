@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmed gamal</h1>
-<h3 align="center">I’m currently working as a backend developer</h3>
+<h3 align="center">I’m currently working as a web developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -12,6 +12,29 @@
 
 - 📄 Know about my experiences [i have 1 years experience in data analysis](i have 1 years experience in Ml/Dl)
 - 📄 Know about my experiences [i have 6 month experience in web developer](i have 6 month experience in laravel & wordpress)
+- my skills
+
+<p>Web develper</p>
+<ul>
+  <li>Laravel</li>
+  <li>Javascript</li>
+  <li>Wordpress</li>
+  <li>php</li>
+  <li>database</li>
+  <li>Ajax and realtime</li>
+  <li>Vue js</li>
+</ul>
+
+<p>Data sCIENCE</p>
+<ul>
+  <li>Tensorflow</li>
+  <li>sklearn</li>
+  <li>feature engineering</li>
+  <li>data cleaning</li>
+  <li>Natural Language processing</li>
+  <li>Text Preprocessing</li>
+  <li>Web scraping and data collecting</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
