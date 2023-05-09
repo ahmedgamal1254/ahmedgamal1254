@@ -6,11 +6,12 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/ahmedgamal12](https://www.kaggle.com/ahmedgamal12)
 
-- 💬 Ask me about **python**,**Machine learning**,**Deep Learning**
+- 💬 Ask me about **python**,**Machine learning**,**Deep Learning**,**Laravel**,**database**,**backend**
 
 - 📫 How to reach me **engahmedgamal086@gmail.com**
 
 - 📄 Know about my experiences [i have 1 years experience in data analysis](i have 1 years experience in Ml/Dl)
+- 📄 Know about my experiences [i have 6 month experience in web developer](i have 6 month experience in laravel & wordpress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
