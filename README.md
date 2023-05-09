@@ -25,7 +25,7 @@
   <li>Vue js</li>
 </ul>
 
-<p>Data sCIENCE</p>
+<p>Data Science</p>
 <ul>
   <li>Tensorflow</li>
   <li>sklearn</li>
